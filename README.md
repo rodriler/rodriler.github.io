@@ -1,12 +1,9 @@
 # Rodrigo Leroux 
+:round_pushpin: Pleasant Hill, CA | :email: rodriler@tenderfoot.net | [www.linkedin.com/in/rodriler](http://www.linkedin.com/in/rodriler)
 
-:round_pushpin: Pleasant Hill, CA 
-:email: rodriler@tenderfoot.net 
-[www.linkedin.com/in/rodriler](http://www.linkedin.com/in/rodriler)
+## 🦊 Summary
 
-## Summary
-
-### **Principal Engineer / Data Architect**
+### **Principal Engineer & Data Architect**
 
 With **20+ years of experience**:
 
@@ -34,7 +31,7 @@ With **20+ years of experience**:
   * A resourceful, creative problem solver; thoughtful, detail-oriented reviewer and collaborative partner. 
 
 ---
-## Professional Experience
+## 🐘 Professional Experience
 
 ### Principal Engineer / Technical Lead
 **Atrium HQ (now Fullcast)** — San Francisco Bay Area  
@@ -132,7 +129,7 @@ With **20+ years of experience**:
 *1999 – 2000*
 
 ---
-## Academic Experience
+## 🦫 Academic Experience
 
 **Research Assistant**, **Sociable Media Group**, MIT Media Lab — Cambridge, MA  
 *1997 – 1999*
