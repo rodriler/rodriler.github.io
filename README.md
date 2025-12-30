@@ -1,8 +1,8 @@
 # Rodrigo Leroux (rodriler.github.io)
-Pleasant Hill, CA
-📧 rodrigoleroux@gmail.com
-📱 925-639-5651  
-www.linkedin.com/in/rodriler
+Pleasant Hill, CA 
+📧 rodrigoleroux@gmail.com 
+📱 925-639-5651 
+www.linkedin.com/in/rodriler 
 
 ---
 
