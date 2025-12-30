@@ -1,9 +1,4 @@
-# Rodrigo Leroux (rodriler.github.io)
-Pleasant Hill, CA 
-📧 rodrigoleroux@gmail.com 
-📱 925-639-5651 
-www.linkedin.com/in/rodriler 
-
+# Rodrigo Leroux - rodriler.github.io - www.linkedin.com/in/rodriler 
 ---
 
 ## Principal Engineer / Data Architect  
