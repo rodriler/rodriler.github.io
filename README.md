@@ -1,21 +1,34 @@
-# Rodrigo Leroux (rodriler)
+# Rodrigo Leroux
 [www.linkedin.com/in/rodriler](http://www.linkedin.com/in/rodriler)
-
 ---
 ## Summary
 
-### Principal Engineer / Data Architect  
-- **20+ years** of experience prototyping, designing, coding, debugging, profiling, maintaining, monitoring, triaging, extending **production-grade software platforms and services** across industries in **Enterprise** (Sales Operations, Recruiting, Education) and **Consumer** (Online Dating, Movies, Music and Games)
-- For both early-stage **startups** looking to establish product-market fit and large/public enterprises with mature products in established markets.
+### **Principal Engineer / Data Architect**
 
-### Thought-leader & Mentor
-- Possessing knowledge of the fundamentals and deep expertise in **product development and system architecture, traditional distributed systems and modern web-service architectures, scalable and performant Data Processing and Data Storage, data modeling for security, privacy, reliability and performance**
-- Trusted by founders/executives for **hands-on** and impactful technical ownership that balances urgency of short-term concerns with priority of long-term objectives and seeking continuous evolution of market-fit, quality, stability & scalability while preserving team productivity & being in control of cost of ownership from early stage thru to product maturity.
-- Respected by peers for principled design & documentation, respectful & compassionate mentorship and servant/by-example leadership. 
+With **20+ years of experience**:
 
-### Technical Evangelizer 
-- Strong focus on effective and proactive communication
-- Bias toward business impact via simplicity, clarity and transparency.
+* Building, operating, and evolving **production-grade software platforms and services** across **enterprise** (Sales Instrumentation, Recruiting, Education) and **consumer** (Online Dating, Movies, Music, Games) domains.
+* Supporting both **early-stage startups** establishing product–market fit and **larger enterprises** operating mature products in established markets.
+* Demonstrating a consistent bias toward **business impact** through simple, transparent design and a strong focus on frequent, effective, and open communication.
+* Selecting and applying tools and technologies across all stages of the adoption cycle, ensuring **risk–reward tradeoffs are explicit, understood, and balanced** for each architectural decision.
+
+### **Technical Leader, Evangelist, and Mentor**
+
+* Deep grounding in **software engineering fundamentals**, with demonstrated expertise in:
+
+  * Product development using modern frameworks, tools, and service-oriented architectures.
+  * **Reliable, performant, and scalable** data modeling, processing, and storage systems.
+* Trusted by founders and managers for:
+
+  * **Hands-on technical ownership** from early stage through product maturity, thoughtfully balancing short-term execution with long-term architectural and business objectives.
+  * Guiding necessary recalibration of team **autonomy vs. structure** as organizations and headcount grow.
+  * Driving incremental improvements in technical concerns often underrepresented in product roadmaps—such as **observability, scalability, and operational efficiency**—to prevent productivity degradation / uncontrolled cost-of-ownership growth.
+* Respected by peers across product, engineering, and adjacent disciplines as:
+
+  * A generous and compassionate mentor; principled yet pragmatic systems architect; 
+  * A reliable, optimistic, enthusiastic individual contributor; proactive advocate for and owner of **prudent refactors**.
+  * A prolific author of reusable code, exploratory branches, and new/extended/revised documentation.
+  * A resourceful, creative problem solver; thoughtful, detail-oriented reviewer and collaborative partner. 
 
 ---
 ## Professional Experience
