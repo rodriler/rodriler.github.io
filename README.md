@@ -1,20 +1,19 @@
-# Rodrigo Leroux
-rodriler.github.io
+# Rodrigo Leroux (rodriler)
 [www.linkedin.com/in/rodriler](http://www.linkedin.com/in/rodriler)
 
 ---
 ## Summary
 
-### Principal Engineer  
+### Principal Engineer / Data Architect  
 - **20+ years** of experience prototyping, designing, coding, debugging, profiling, maintaining, monitoring, triaging, extending **production-grade software platforms and services** across industries in **Enterprise** (Sales Operations, Recruiting, Education) and **Consumer** (Online Dating, Movies, Music and Games)
 - For both early-stage **startups** looking to establish product-market fit and large/public enterprises with mature products in established markets.
 
-### Technical Thought-leader & Mentor
+### Thought-leader & Mentor
 - Possessing knowledge of the fundamentals and deep expertise in **product development and system architecture, traditional distributed systems and modern web-service architectures, scalable and performant Data Processing and Data Storage, data modeling for security, privacy, reliability and performance**
 - Trusted by founders/executives for **hands-on** and impactful technical ownership that balances urgency of short-term concerns with priority of long-term objectives and seeking continuous evolution of market-fit, quality, stability & scalability while preserving team productivity & being in control of cost of ownership from early stage thru to product maturity.
 - Respected by peers for principled design & documentation, respectful & compassionate mentorship and servant/by-example leadership. 
 
-### Tactical Evangelizer 
+### Technical Evangelizer 
 - Strong focus on effective and proactive communication
 - Bias toward business impact via simplicity, clarity and transparency.
 
