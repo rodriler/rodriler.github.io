@@ -6,16 +6,26 @@ rodriler.github.io
  
 ---
 
-## Principal Engineer / Data Architect  
-**Backend · Data Platforms · Distributed Systems**
+# Overview
 
-Principal engineer with **20+ years** of experience prototyping, designing, building, operating and extending **production-grade software platforms and services** across enterprise (Sales Operations, Recruiting, Education) and consumer (Online Dating, Movies, Music and Games) for both startups and large enterprises. Technical thought-leader with knowledge of fundamentals and deep expertise in **product development and system architecture, traditional distributed services and modern serverless / de-coupled architectures, scalable data transfer and storage, data modeling for security, privacy, reliability and performance**, with long-term ownership of systems from early design through scale, maturity, and continuous evolution. Strong technical leader and communicator with a bias toward clarity, cost-efficiency and business impact.
+## Principal Engineer  
+- **20+ years** of experience prototyping, designing, coding, debugging, profiling, maintaining, monitoring, triaging, extending **production-grade software platforms and services** across industries in **Enterprise** (Sales Operations, Recruiting, Education) and **Consumer** (Online Dating, Movies, Music and Games)
+- For both early-stage **startups** looking to establish product-market fit and large/public enterprises with mature products in established markets.
+
+## Technical Thought-leader & Mentor
+- Possessing knowledge of the fundamentals and deep expertise in **product development and system architecture, traditional distributed systems and modern web-service architectures, scalable and performant Data Processing and Data Storage, data modeling for security, privacy, reliability and performance**
+- Trusted by founders/executives for **hands-on** and impactful technical ownership that balances urgency of short-term concerns with priority of long-term objectives and seeking continuous evolution of market-fit, quality, stability & scalability while preserving team productivity & being in control of cost of ownership from early stage thru to product maturity.
+- Respected by peers for principled design & documentation, respectful & compassionate mentorship and servant/by-example leadership. 
+
+## Tactical Evangelizer 
+- Strong focus on effective and proactive communication
+- Bias toward business impact via simplicity, clarity and transparency.
 
 ---
 
-## Professional Experience
+# Professional Experience
 
-### Principal Engineer / Technical Lead
+## Principal Engineer / Technical Lead
 **Atrium HQ (now Fullcast)** — San Francisco Bay Area  
 *Feb 2014 – 2025*
 
@@ -40,7 +50,7 @@ Principal engineer with **20+ years** of experience prototyping, designing, buil
 
 ---
 
-### Technical Lead  
+## Technical Lead  
 **TalentBin (acquired by Monster Worldwide)** — San Francisco, CA  
 *Aug 2011 – Feb 2014*
 
@@ -52,7 +62,7 @@ Principal engineer with **20+ years** of experience prototyping, designing, buil
 
 ---
 
-### Senior Member of Technical Staff (SMTS)  
+## Senior Member of Technical Staff (SMTS)  
 **Salesforce** — San Francisco, CA  
 *Aug 2010 – Aug 2011*
 
@@ -63,7 +73,7 @@ Principal engineer with **20+ years** of experience prototyping, designing, buil
 
 ---
 
-### Co-Founder & Architect  
+## Co-Founder & Architect  
 **VigLink** — San Francisco, CA  
 *Sept 2009 – Aug 2010*
 
@@ -78,7 +88,7 @@ Principal engineer with **20+ years** of experience prototyping, designing, buil
 
 ---
 
-### Data Architect  
+## Data Architect  
 **Flixster (acquired by Warner Bros.)** — San Francisco, CA  
 *Apr 2006 – Aug 2009*
 
@@ -93,7 +103,7 @@ Principal engineer with **20+ years** of experience prototyping, designing, buil
 
 ---
 
-### Data Architect  
+## Data Architect  
 **Engage Corporation (acquired by Spark Networks)** — Oakland, CA  
 *Dec 2004 – Mar 2006*
 
@@ -104,7 +114,7 @@ Principal engineer with **20+ years** of experience prototyping, designing, buil
 
 ---
 
-### Freelance Consultant  
+## Freelance Consultant  
 *2004 – 2006*
 
 - **Autodesk** — Data model upgrades and query performance optimization for reseller support portal.
@@ -113,7 +123,7 @@ Principal engineer with **20+ years** of experience prototyping, designing, buil
 
 ---
 
-### Earlier Career (Selected)
+## Earlier Career (Selected)
 
 **Senior Software Engineer**, Echo Networks — San Francisco, CA  
 *2000 – 2002*
@@ -126,7 +136,7 @@ Principal engineer with **20+ years** of experience prototyping, designing, buil
 
 ---
 
-## Academic Experience
+# Academic Experience
 
 **Research Assistant**, **Sociable Media Group**, MIT Media Lab — Cambridge, MA  
 *1997 – 1999*
@@ -146,7 +156,7 @@ Principal engineer with **20+ years** of experience prototyping, designing, buil
 
 ---
 
-## Education
+# Education
 
 **Massachusetts Institute of Technology (MIT)** — Cambridge, MA  
 **M.Eng. (1999), B.S. (1998)** — Electrical Engineering & Computer Science  
@@ -157,7 +167,7 @@ Research focused on collaborative software, scalable systems, and cache coherenc
 
 ---
 
-## Technical Skills
+# Technical Skills
 
 - **Programming Languages:**
     - Java 8-21 and notable JVM domain languages: Kotlin, Scala, Groovy
