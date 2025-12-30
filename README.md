@@ -2,7 +2,8 @@
 
 rodriler.github.io
 
-www.linkedin.com/in/rodriler 
+[www.linkedin.com/in/rodriler](http://www.linkedin.com/in/rodriler)
+ 
 ---
 
 ## Principal Engineer / Data Architect  
