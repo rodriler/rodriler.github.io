@@ -1,6 +1,6 @@
 # Rodrigo Leroux
 [www.linkedin.com/in/rodriler](http://www.linkedin.com/in/rodriler)
----
+
 ## Summary
 
 ### **Principal Engineer / Data Architect**
