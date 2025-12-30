@@ -1,4 +1,8 @@
-# Rodrigo Leroux - rodriler.github.io - www.linkedin.com/in/rodriler 
+# Rodrigo Leroux
+
+rodriler.github.io
+
+www.linkedin.com/in/rodriler 
 ---
 
 ## Principal Engineer / Data Architect  
