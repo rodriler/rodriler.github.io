@@ -1,31 +1,27 @@
 # Rodrigo Leroux
-
 rodriler.github.io
-
 [www.linkedin.com/in/rodriler](http://www.linkedin.com/in/rodriler)
- 
+
 ---
+## Summary
 
-# Overview
-
-## Principal Engineer  
+### Principal Engineer  
 - **20+ years** of experience prototyping, designing, coding, debugging, profiling, maintaining, monitoring, triaging, extending **production-grade software platforms and services** across industries in **Enterprise** (Sales Operations, Recruiting, Education) and **Consumer** (Online Dating, Movies, Music and Games)
 - For both early-stage **startups** looking to establish product-market fit and large/public enterprises with mature products in established markets.
 
-## Technical Thought-leader & Mentor
+### Technical Thought-leader & Mentor
 - Possessing knowledge of the fundamentals and deep expertise in **product development and system architecture, traditional distributed systems and modern web-service architectures, scalable and performant Data Processing and Data Storage, data modeling for security, privacy, reliability and performance**
 - Trusted by founders/executives for **hands-on** and impactful technical ownership that balances urgency of short-term concerns with priority of long-term objectives and seeking continuous evolution of market-fit, quality, stability & scalability while preserving team productivity & being in control of cost of ownership from early stage thru to product maturity.
 - Respected by peers for principled design & documentation, respectful & compassionate mentorship and servant/by-example leadership. 
 
-## Tactical Evangelizer 
+### Tactical Evangelizer 
 - Strong focus on effective and proactive communication
 - Bias toward business impact via simplicity, clarity and transparency.
 
 ---
+## Professional Experience
 
-# Professional Experience
-
-## Principal Engineer / Technical Lead
+### Principal Engineer / Technical Lead
 **Atrium HQ (now Fullcast)** — San Francisco Bay Area  
 *Feb 2014 – 2025*
 
@@ -48,9 +44,7 @@ rodriler.github.io
 
 **Core technologies:** Java 8, Spring Boot, Hibernate, PostgreSQL (9–15), Protobuf, React, Memcached, AWS, Terraform, Ansible, GitHub, IntelliJ IDEA, Windsurf, Cascade, LLMs
 
----
-
-## Technical Lead  
+### Technical Lead  
 **TalentBin (acquired by Monster Worldwide)** — San Francisco, CA  
 *Aug 2011 – Feb 2014*
 
@@ -60,9 +54,7 @@ rodriler.github.io
 - **Tech stack:** Java, Spring, Apache Solr, MySQL, PHP (Yii)  
 - **Infrastructure & tooling:** AWS, GitHub, Pivotal Tracker
 
----
-
-## Senior Member of Technical Staff (SMTS)  
+### Senior Member of Technical Staff (SMTS)  
 **Salesforce** — San Francisco, CA  
 *Aug 2010 – Aug 2011*
 
@@ -71,9 +63,7 @@ rodriler.github.io
 - **Tech stack:** Java, Lucene, Oracle  
 - **Tooling:** Perforce
 
----
-
-## Co-Founder & Architect  
+### Co-Founder & Architect  
 **VigLink** — San Francisco, CA  
 *Sept 2009 – Aug 2010*
 
@@ -86,9 +76,7 @@ rodriler.github.io
   - A high-throughput click-tracking backend using **distributed, log-based ingestion**
 - **Tech stack:** JavaScript, Cassandra, Hadoop
 
----
-
-## Data Architect  
+### Data Architect  
 **Flixster (acquired by Warner Bros.)** — San Francisco, CA  
 *Apr 2006 – Aug 2009*
 
@@ -101,9 +89,7 @@ rodriler.github.io
 - **Tech stack:** Java, Spring, Hibernate, Apache/Tomcat, MySQL  
 - **Tooling:** Ant, CVS, Eclipse
 
----
-
-## Data Architect  
+### Data Architect  
 **Engage Corporation (acquired by Spark Networks)** — Oakland, CA  
 *Dec 2004 – Mar 2006*
 
@@ -112,18 +98,14 @@ rodriler.github.io
 - Implemented PostgreSQL replication using **Slony** and optimized transactional workflows.
 - **Tech stack:** Java, Spring, Hibernate, PostgreSQL
 
----
-
-## Freelance Consultant  
+### Freelance Consultant  
 *2004 – 2006*
 
 - **Autodesk** — Data model upgrades and query performance optimization for reseller support portal.
 - **Atlas Mobile (Infospace)** — Performance overhaul of tournament-based mobile games; increased throughput from **<30 to >1,000 games/sec** through concurrency and transaction redesign; introduced replication, backup, and recovery processes.
 - **Tapatap** — Pre-launch feature development and post-launch performance stabilization.
 
----
-
-## Earlier Career (Selected)
+### Earlier Career (Selected)
 
 **Senior Software Engineer**, Echo Networks — San Francisco, CA  
 *2000 – 2002*
@@ -135,8 +117,7 @@ rodriler.github.io
 *1999 – 2000*
 
 ---
-
-# Academic Experience
+## Academic Experience
 
 **Research Assistant**, **Sociable Media Group**, MIT Media Lab — Cambridge, MA  
 *1997 – 1999*
@@ -155,8 +136,7 @@ rodriler.github.io
   https://ocw.mit.edu/courses/6-042j-mathematics-for-computer-science-spring-2015/
 
 ---
-
-# Education
+## Education
 
 **Massachusetts Institute of Technology (MIT)** — Cambridge, MA  
 **M.Eng. (1999), B.S. (1998)** — Electrical Engineering & Computer Science  
@@ -166,8 +146,7 @@ Advanced study in Distributed Computing and Networked Systems.
 Research focused on collaborative software, scalable systems, and cache coherency.
 
 ---
-
-# Technical Skills
+## Technical Skills
 
 - **Programming Languages:**
     - Java 8-21 and notable JVM domain languages: Kotlin, Scala, Groovy
