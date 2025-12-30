@@ -35,7 +35,7 @@ With **20+ years of experience**:
 
 ### Principal Engineer / Technical Lead
 **Atrium HQ (now Fullcast)** — San Francisco Bay Area  
-*Feb 2014 – 2025*
+*May 2016 –* (Current)
 
 - Principal engineer and **end-to-end technical owner** of a **sales performance, analytics, and optimization platform** used by hundreds of revenue and sales operations teams.
 - Served as **architect, technical thought leader, and long-term system steward** across the full product lifecycle: early platform design, iterative scaling, operational maturity, and continuous evolution.
@@ -58,7 +58,7 @@ With **20+ years of experience**:
 
 ### Technical Lead  
 **TalentBin (acquired by Monster Worldwide)** — San Francisco, CA  
-*Aug 2011 – Feb 2014*
+*Aug 2011 – Apr 2016*
 
 - Led the **architecture, design, implementation, and operations** of the core candidate database, APIs, and recruiting application.
 - Owned backend systems supporting search, ingestion, and recruiter workflows.
