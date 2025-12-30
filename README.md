@@ -1,4 +1,8 @@
-# Rodrigo Leroux ([www.linkedin.com/in/rodriler](http://www.linkedin.com/in/rodriler))
+# Rodrigo Leroux 
+
+:round_pushpin: Pleasant Hill, CA 
+:email: rodriler@tenderfoot.net 
+[www.linkedin.com/in/rodriler](http://www.linkedin.com/in/rodriler)
 
 ## Summary
 
