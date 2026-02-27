@@ -35,7 +35,7 @@ With **20+ years of experience**:
 ## 🐘 Professional Experience
 
 ### Principal Engineer / Technical Lead
-**Atrium HQ (now Fullcast)** — San Francisco Bay Area  
+**Atrium HQ** — San Francisco Bay Area  
 *May 2016 –* (Current)
 
 - Principal engineer and **end-to-end technical owner** of a **sales performance, analytics, and optimization platform** used by hundreds of revenue and sales operations teams.
