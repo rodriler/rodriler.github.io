@@ -136,6 +136,7 @@ With **20+ years of experience**:
 *1997 – 1999*
 
 - Architect of **Load Plateau**, a toolkit for building massively scalable collaborative applications using prioritized queuing.
+  *(https://dspace.mit.edu/handle/1721.1/80099)*
 - Lead developer of **Chat Circles**, an experimental collaborative chat system exploring intuitive user interfaces for online social interaction.  
   *(http://chatcircles.media.mit.edu)*
 - Research focused on scalability, collaborative systems, and the interaction between system architecture and social behavior.
