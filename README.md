@@ -13,7 +13,7 @@ With **20+ years of experience**:
 * Demonstrating a consistent bias toward **business impact** through simple, transparent design and a strong focus on frequent, effective, and open communication.
 * Selecting and applying tools and technologies across all stages of the adoption cycle, ensuring **risk–reward tradeoffs are explicit, understood, and balanced** for each architectural decision.
 
-### **Technical Leader, Evangelist, and Mentor**
+### **Technical Anchor, Systems Architect, and Mentor**
 
 * Deep grounding in **software engineering fundamentals**, with demonstrated expertise in:
 
@@ -35,7 +35,7 @@ With **20+ years of experience**:
 ## 🐘 Professional Experience
 
 ### Principal Engineer / Technical Lead
-**Atrium HQ** — San Francisco Bay Area  
+**Atrium HQ (acquired by Fullcast)** — San Francisco Bay Area  
 *May 2016 –* (Current)
 
 - Principal engineer and **end-to-end technical owner** of a **sales performance, analytics, and optimization platform** used by hundreds of revenue and sales operations teams.
@@ -59,7 +59,7 @@ With **20+ years of experience**:
 
 ### Technical Lead  
 **TalentBin (acquired by Monster Worldwide)** — San Francisco, CA  
-*Aug 2011 – Apr 2016*
+*July 2012 – Apr 2016*
 
 - Led the **architecture, design, implementation, and operations** of the core candidate database, APIs, and recruiting application.
 - Owned backend systems supporting search, ingestion, and recruiter workflows.
@@ -69,7 +69,7 @@ With **20+ years of experience**:
 
 ### Senior Member of Technical Staff (SMTS)  
 **Salesforce** — San Francisco, CA  
-*Aug 2010 – Aug 2011*
+*Aug 2010 – June 2012*
 
 - Built CRM features as part of the **Knowledge Access and Management** team.
 - Worked on large-scale enterprise systems with strict reliability, security, and performance requirements.
@@ -77,8 +77,8 @@ With **20+ years of experience**:
 - **Tooling:** Perforce
 
 ### Co-Founder & Architect  
-**VigLink** — San Francisco, CA  
-*Sept 2009 – Aug 2010*
+**VigLink (acquired by Sovrn)** — San Francisco, CA  
+*Sept 2009 – July 2010*
 
 - Co-founded and architected a content monetization platform serving major publishers.
 - Platform handled **~600M page views per month** and later generated **$20M+ in annual revenue**.
