@@ -1,6 +1,6 @@
 # Rodrigo Leroux 
 
-📍 Pleasant Hill, CA | 📧 rodriler@tenderfoot.net | [www.linkedin.com/in/rodriler](http://www.linkedin.com/in/rodriler) |
+📍 San Francisco, Bay Area | 📧 rodrigo.leroux@gmail.com | [www.linkedin.com/in/rodriler](http://www.linkedin.com/in/rodriler) |
 
 ## 🦊 Summary
 
