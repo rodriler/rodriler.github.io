@@ -1,7 +1,11 @@
 # Rodrigo Leroux
 San Francisco Bay Area  
 rodrigo.leroux@gmail.com  
-[linkedin.com/in/rodriler](https://www.linkedin.com/in/rodriler) | [rodriler@github](https://github.com/rodriler) | [⬇ Download PDF](./RodrigoLeroux-ResumeGithub-202605.pdf) &nbsp;&nbsp;|&nbsp;&nbsp; [✉ Get in touch](mailto:rodrigo.leroux@gmail.com)
+
+[linkedin.com/in/rodriler](https://www.linkedin.com/in/rodriler) &nbsp;&nbsp;|&nbsp;&nbsp;
+[rodriler@github](https://github.com/rodriler) &nbsp;&nbsp;|&nbsp;&nbsp;
+[⬇ Download PDF](./RodrigoLeroux-ResumeGithub-202605.pdf) &nbsp;&nbsp;|&nbsp;&nbsp;
+[✉ Get in touch](mailto:rodrigo.leroux@gmail.com)
 
 ---
 
